@@ -1,8 +1,6 @@
 ﻿# GameplayProgramming-Final-Project
 
-# Game Project:
- Initial Plan
-
+# Game Project  Initial Plan
 # Core Concept
 
 ## Provide a synopsis for your game.
